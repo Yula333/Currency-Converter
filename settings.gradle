@@ -1,0 +1,2 @@
+rootProject.name='MyConverter1'
+include ':app'

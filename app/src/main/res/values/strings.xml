@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyConverter1</string>
+    <string name="logo">Конвертер валют</string>
+    <string name="example">1.0</string>
+    <string name="btn">Изменить валюту</string>
+    <string name="btn_rev">Отмена</string>
+    <string name="logo_choice">Выбор валют</string>
+    <string name="button_label_on">\u2713</string>
+    <string name="button_label_off"> </string>
+    <string name="button_RUB">Рубль</string>
+    <string name="button_AUD">Австралийский доллар</string>
+    <string name="button_BRL">Бразильский реал</string>
+    <string name="button_EUR">Евро</string>
+
+
+</resources>
