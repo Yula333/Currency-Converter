@@ -13,7 +13,7 @@ import android.widget.TextView;
 public class ConvertActivity extends AppCompatActivity {
 
     private EditText user_sum;
-    private TextView convert_sum;
+    private EditText convert_sum;
     private ImageButton swap_btn;
     private TextView currency_first;
     private TextView currency_second;
@@ -24,6 +24,7 @@ public class ConvertActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_convert);
+
 
         user_sum = findViewById(R.id.user_sum);
         convert_sum = findViewById(R.id.convert_sum);
